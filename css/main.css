@@ -63,15 +63,15 @@ footer {
     background-color: goldenrod;
   }
 
-  #column-1 {
+  #column-1 { width: 50%;
     background-color: gold;
   }
 
-  #column-2 {
+  #column-2 { width: 50%;
     background-color: green;
   }
 
-  #column-3 {
+  #column-3 { width: 100%;
     background-color: greenyellow;
   }
 
@@ -88,20 +88,20 @@ footer {
     background-color: bisque;
   }
 
-  #column-1 {
+  #column-1 { width: 33.3%;
     background-color: rosybrown;
   }
 
-  #column-2 {
+  #column-2 { width: 33.3%;
     background-color: blanchedalmond;
   }
 
-  #column-3 {
+  #column-3 { width: 33.3%;
     background-color: burlywood;
   }
 
   footer {
     background-color: palevioletred;
   }
-   
+     
 }
